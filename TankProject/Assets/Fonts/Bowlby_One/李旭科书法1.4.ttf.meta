@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b92951af232eed74dbcb255b00b58750
+timeCreated: 1502190123
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Li Xuke
+  fontNames:
+  - Li Xuke
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

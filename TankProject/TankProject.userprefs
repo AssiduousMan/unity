@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tank\TankInfomation.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Server\Product_Goods.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Goods\Grade_Trigger.cs" Line="66" Column="27" />
+      <File FileName="Assets\Scripts\Goods\DEFPreScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tank\TankInfomation.cs" Line="462" Column="41" />
+      <File FileName="Assets\Scripts\Tank\Tank_Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\UIUpdate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet\Bullet.cs" Line="46" Column="79" />
+      <File FileName="Assets\Scripts\Tank\FiringBullets.cs" Line="27" Column="56" />
+      <File FileName="Assets\Scripts\Enemy\EnemyTankHealth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
